@@ -1,4 +1,4 @@
-Asynchronous to synchronous particle-network evolution in composite battery cathodes
+Dynamics of particle network in composite battery cathodes
 ======
 <img src="images/network.png" width="300" align="right">
 
