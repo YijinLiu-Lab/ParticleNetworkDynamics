@@ -1,5 +1,10 @@
 Dynamics of particle network in composite battery cathodes
 ======
+
+
+[![DOI](https://zenodo.org/badge/429588965.svg)](https://zenodo.org/badge/latestdoi/429588965)
+
+
 <img src="images/network.png" width="300" align="right">
 
 This repository contains the source codes for the study of active particle-network evolution in Ni-rich LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> (NMC) composite battery cathodes, as described in the following paper:
