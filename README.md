@@ -7,7 +7,7 @@ This repository contains the source codes for the study of active particle-netwo
 ```
 @unpublished{li2021networkevolution,
   title={Asynchronous to synchronous particle-network evolution in composite battery cathodes},
-  author={Li, Jizhou and Sharma, Nikhil and Jiang, Zhisen and Yang, Yang and Monaco, Federico and Xu, Zhengrui and Ratner, Daniel and Pianetta, Piero and Cloetens, Peter and Lin, Feng and Zhao, Kejie and Liu, Yijin},
+  author={Li, Jizhou and Sharma, Nikhil and Jiang, Zhisen and Yang, Yang and Monaco, Federico and Xu, Zhengrui and Hou, Dong and Ratner, Daniel and Pianetta, Piero and Cloetens, Peter and Lin, Feng and Zhao, Kejie and Liu, Yijin},
   year={2021},
   note={Under review}
 }
