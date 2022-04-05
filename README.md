@@ -1,7 +1,7 @@
 Dynamics of particle network in composite battery cathodes
 ======
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5888969.svg)](https://doi.org/10.5281/zenodo.5888969)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5888945.svg)](https://doi.org/10.5281/zenodo.5888945)
 
 
 
@@ -188,14 +188,6 @@ SHAP Values Calculation
 explainer = shap.TreeExplainer(regressor)
 shap_values1 = explainer.shap_values(X_train)
 ```
-
-# Dataset
-We provide more datasets of the NMC particles obtained from nano-resolution X-ray phase contrast tomography, to promote the continuous improvement of NMC particles detection and analysis. The initial release can be found [here]() (~15GB). More datasets under different experimental conditions will be added in the future.
-
-<p align = "center"><img src="images/dataset.png" width="600" align="center">
-</p><p align = "center">
-Fig.7. Preview of the dataset of NMC particles using nano-resolution X-ray phase contrast tomography. 
-</p>
 
 # Conclusion
 - The formulated network evolution model provides insights into the regulation and equilibration between electrochemical activity and particle damage. 
