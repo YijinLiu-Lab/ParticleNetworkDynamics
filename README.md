@@ -87,7 +87,7 @@ Fig.3. Particle identification results by the trained model based on StarDist.
 
 See more details in [demo_inference.ipynb](/part1_particle_identification/example/demo_inference.ipynb).
 
-An ImageJ plugin is also provided to apply the [trained model](/models/NMCparticles_SavedModel.zip) on the image, thanks to [StarDist](https://github.com/stardist/stardist). The details of the usage instruction can be found [here](https://imagej.net/plugins/stardist). 
+An ImageJ plugin is also provided to apply the [trained model](/part1_particle_identification/models/NMCparticles_SavedModel.zip) on the image, thanks to [StarDist](https://github.com/stardist/stardist). The details of the usage instruction can be found [here](https://imagej.net/plugins/stardist). 
 
 <p align = "center"><img src="images/imagej.gif" width="600" align="center">
 </p><p align = "center">
